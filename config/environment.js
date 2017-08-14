@@ -5,7 +5,7 @@ module.exports = function(environment) {
   let ENV = {
     modulePrefix: 'ember-triage-issue-10931',
     environment,
-    rootURL: '/',
+    rootURL: '/ember-triage-issue-10931',
     locationType: 'auto',
     EmberENV: {
       FEATURES: {
